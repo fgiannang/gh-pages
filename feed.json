@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NETBIB",
+    "description": "",
+    "home_page_url": "https://fgiannang.github.io/gh-pages",
+    "feed_url": "https://fgiannang.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "FG"
+    },
+    "items": [
+        {
+            "id": "https://fgiannang.github.io/gh-pages/1er-post-du-1er-site-publii-github-pages.html",
+            "url": "https://fgiannang.github.io/gh-pages/1er-post-du-1er-site-publii-github-pages.html",
+            "title": "1er post du 1er site Publii / Github Pages",
+            "summary": "1er post du 1er site Publii / Github Pages 1er post du 1er site Publii / Github Pages 1er post du 1er site Publii / Github Pages 1er post du 1er site Publii / Github Pages",
+            "content_html": "<p>1er post du 1er site Publii / Github Pages</p>\n<p>1er post du 1er site Publii / Github Pages</p>\n<p>1er post du 1er site Publii / Github Pages</p>\n<p>1er post du 1er site Publii / Github Pages</p>",
+            "author": {
+                "name": "FG"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-24T19:21:48+02:00",
+            "date_modified": "2026-05-24T19:21:48+02:00"
+        }
+    ]
+}

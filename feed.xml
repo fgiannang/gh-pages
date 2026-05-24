@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>NETBIB</title>
+    <link href="https://fgiannang.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://fgiannang.github.io/gh-pages" />
+    <updated>2026-05-24T19:21:48+02:00</updated>
+    <author>
+        <name>FG</name>
+    </author>
+    <id>https://fgiannang.github.io/gh-pages</id>
+
+    <entry>
+        <title>1er post du 1er site Publii / Github Pages</title>
+        <author>
+            <name>FG</name>
+        </author>
+        <link href="https://fgiannang.github.io/gh-pages/1er-post-du-1er-site-publii-github-pages.html"/>
+        <id>https://fgiannang.github.io/gh-pages/1er-post-du-1er-site-publii-github-pages.html</id>
+
+        <updated>2026-05-24T19:21:48+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    1er post du 1er site Publii / Github Pages 1er post du 1er site Publii / Github Pages 1er post du 1er site Publii / Github Pages 1er post du 1er site Publii / Github Pages
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>1er post du 1er site Publii / Github Pages</p>
+<p>1er post du 1er site Publii / Github Pages</p>
+<p>1er post du 1er site Publii / Github Pages</p>
+<p>1er post du 1er site Publii / Github Pages</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
